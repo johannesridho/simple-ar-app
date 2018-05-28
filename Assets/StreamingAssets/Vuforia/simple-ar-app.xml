@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="react-logo" size="2.000000 1.989848" />
+    <ImageTarget name="wendy-bear-image" size="1.000000 1.214654" />
+  </Tracking>
+</QCARConfig>
